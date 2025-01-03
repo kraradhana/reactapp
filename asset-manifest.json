@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/apple/static/css/main.ae698024.css",
-    "main.js": "/apple/static/js/main.354d0fc7.js",
-    "static/js/488.f42b2e7b.chunk.js": "/apple/static/js/488.f42b2e7b.chunk.js",
-    "static/media/masala.jpg": "/apple/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
-    "static/media/banner.jpeg": "/apple/static/media/banner.05892fe97cce26a5d9e5.jpeg",
-    "static/media/chhola.jpg": "/apple/static/media/chhola.a1458ef1370699c23212.jpg",
-    "static/media/logo.svg": "/apple/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
-    "static/media/paneer.jpg": "/apple/static/media/paneer.f04d2c563fe596463e47.jpg",
-    "static/media/idli.jpg": "/apple/static/media/idli.dc2d98fda6c7a903c64b.jpg",
-    "static/media/gujrati.jpeg": "/apple/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
-    "static/media/dosa.jpg": "/apple/static/media/dosa.5c938f456ea86779ba13.jpg",
-    "index.html": "/apple/index.html",
-    "main.ae698024.css.map": "/apple/static/css/main.ae698024.css.map",
-    "main.354d0fc7.js.map": "/apple/static/js/main.354d0fc7.js.map",
-    "488.f42b2e7b.chunk.js.map": "/apple/static/js/488.f42b2e7b.chunk.js.map"
+    "main.css": "/reactapp/static/css/main.ae698024.css",
+    "main.js": "/reactapp/static/js/main.1bc88913.js",
+    "static/js/488.f42b2e7b.chunk.js": "/reactapp/static/js/488.f42b2e7b.chunk.js",
+    "static/media/masala.jpg": "/reactapp/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/banner.jpeg": "/reactapp/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/reactapp/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/reactapp/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/paneer.jpg": "/reactapp/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/reactapp/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/reactapp/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/reactapp/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/reactapp/index.html",
+    "main.ae698024.css.map": "/reactapp/static/css/main.ae698024.css.map",
+    "main.1bc88913.js.map": "/reactapp/static/js/main.1bc88913.js.map",
+    "488.f42b2e7b.chunk.js.map": "/reactapp/static/js/488.f42b2e7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae698024.css",
-    "static/js/main.354d0fc7.js"
+    "static/js/main.1bc88913.js"
   ]
 }
